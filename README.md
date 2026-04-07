@@ -29,8 +29,7 @@
 
 | # | ชื่องาน | ไฟล์ |
 |---|---------|------|
-| 01 | LAB ITN Module 3 — Protocol Lab | [View](LAB/01_LAB/LAB_ITN_Module3_ProtocolLa...) |
-| 01 | Network | [View](LAB/01_LAB/Network.pdf) |
+| 01 | Lab Report 1 | [View](LAB/01_LAB/) |
 | 02 | Lab Report 2 | [View](LAB/02_LAB/) |
 | 03 | Lab Report 3 | [View](LAB/03_LAB/) |
 | 04 | Lab Report 4 | [View](LAB/04_LAB/) |
@@ -60,7 +59,7 @@
 
 ## 🚀 Final Project
 
-| ชื่อโปรเจ็ค | ไฟล์ |
+| ชื่อโปรเจ็ค | Github |
 |-------------|------|
 | Final Project | [View](Final%20Project%20Team/Final%20Project.md) |
 
