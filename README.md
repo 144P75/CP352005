@@ -59,9 +59,9 @@
 
 ## 🚀 Final Project
 
-| ชื่อโปรเจ็ค | Github |
-|-------------|------|
-| Final Project | [View](Final%20Project%20Team/Final%20Project.md) |
+| ชื่อโปรเจ็ค | ไฟล์ | Github |
+|-------------|------|------|
+| Final Project | [View](Final%20Project%20Team/Final%20Project.md) | https://github.com/lloganlrithm/Infrastructure-Free-Emergency-Communication-Network |
 
 ---
 
